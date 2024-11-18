@@ -311,7 +311,6 @@ The primary objective of the financial model is to evaluate the financial feasib
 ### Assumptions
 <p align="center">
 <img width=100% alt="Assumptions" src="images/assumptions.png">
-<p><br></p>
 </p>
 
 The project exhibits robust financial fundamentals, underpinned by a favorable 20-year PPA at €72.75/MWh, ensuring stable revenues and swift capital recovery. This is further bolstered by an aggressive 85% debt leverage and tax advantages from accelerated depreciation on Class E assets. The financing structure, featuring a 19-year amortization period and a fixed 4.65% interest rate, provides stability and rapid debt repayment. While the project demonstrates strong short-term resilience with P50 and P99 DSCR minimums of 1.35x and 1.00x respectively, and includes prudent measures such as a 5% contingency and a 6-month DSRA, the post-PPA period presents a significant risk with projected prices dropping to €35/MWh. To mitigate this long-term market exposure and enhance overall project value, management should prioritize securing additional long-term power contracts or implementing robust hedging strategies beyond the initial PPA term.
@@ -320,7 +319,6 @@ The project exhibits robust financial fundamentals, underpinned by a favorable 2
 <p align="center">
 <img width=100% alt="production-revenue-expenses-ebitda-1" src="images/production-revenue-expenses-ebitda-1.png">
 <img width=100% alt="production-revenue-expenses-ebitda-2" src="images/production-revenue-expenses-ebitda-2.png">
-<p><br></p>
 </p>
 
 The financial analysis of the project indicates a strong revenue potential during the initial 20 years under the Power Purchase Agreement (PPA), with stable power prices set at €72.75/MWh and consistent production levels. Although production is expected to decline gradually by approximately 0.5% annually, EBITDA is projected to peak at €2,843,318 in the first year, tapering to €2,166,000 by the end of the PPA. A critical concern arises post-PPA, where power prices are anticipated to plummet to €35/MWh in year 21, resulting in an over 80% reduction in EBITDA during the latter years of the project's lifecycle. This financial decline will be compounded by increasing operational costs, particularly rising lease payments and a 5% contingency reserve for unforeseen risks. While the project demonstrates robust EBITDA during the PPA phase—facilitating debt repayment and investor returns—strategic planning is imperative to address the revenue challenges post-2040. Potential strategies include exploring hedging opportunities, renegotiating long-term off-take agreements, and diversifying revenue streams to sustain financial health beyond the PPA term. Overall, while the project is financially viable during its initial term, proactive measures are essential to ensure continued profitability in the long term.
@@ -329,7 +327,6 @@ The financial analysis of the project indicates a strong revenue potential durin
 <p align="center">
 <img width=100% alt="debt-sizing-1" src="images/debt-sizing-1.png">
 <img width=100% alt="debt-sizing-2" src="images/debt-sizing-2.png">
-<p><br></p>
 </p>
 
 The debt sizing analysis demonstrates a well-structured repayment schedule that ensures manageable debt service obligations through 2038, with debt balances gradually decreasing over time. Throughout the forecast period, the P50 Debt Service Coverage Ratio (DSCR) remains robust at 1.35x, while the P99 DSCR starts at 1.13x and slightly declines to 1.10x by 2038. As the debt balance reduces, interest payments also decrease, aligning with the steady reduction in principal repayments. P50 EBITDA is projected to decline from €2,843,318 in 2020 to €2,166,000 by 2038, while P99 EBITDA decreases from €2,385,211 to €1,751,413 during the same timeframe. Notably, after 2038, both P50 and P99 EBITDA experience a significant drop, with P50 falling to €335,339 in 2039 and continuing to decline thereafter, while P99 EBITDA turns negative from 2044 onwards. This sharp decline in EBITDA post-2038 presents a growing risk to liquidity and debt service capacity in the later years. To mitigate these risks and ensure ongoing financial stability, the business must prioritize maintaining revenue stability, optimizing cash flow, and exploring refinancing options. Although the debt sizing aligns well with projected cash flows in the initial years, proactive strategies will be essential to navigate the anticipated challenges related to declining profitability after 2038.
@@ -338,7 +335,6 @@ The debt sizing analysis demonstrates a well-structured repayment schedule that 
 <p align="center">
 <img width=100% alt="depreciation-balances-and-cash-taxes-payable-1" src="images/depreciation-balances-and-cash-taxes-payable-1.png">
 <img width=100% alt="depreciation-balances-and-cash-taxes-payable-2" src="images/depreciation-balances-and-cash-taxes-payable-2.png">
-<p><br></p>
 </p>
 
 The depreciation schedule outlines the allocation of depreciation across five asset classes (A, B, C, D, and E) over time, providing insights into their financial impact. Class A depreciates by €3,310 annually from an initial balance of €66,201, while Class B remains non-depreciable. Class C, starting at €979,506, incurs an annual depreciation of €48,975. Class D begins at €175,718 with a yearly depreciation of €17,572. Class E, the largest asset class, starts at €28,337,902 and depreciates by €7,084,476 annually for the first four years. This depreciation plays a crucial role in tax management by sheltering taxable income and enhancing the tax shield in the early years of the project. As a result, the accumulating tax shelter from depreciation leads to lower taxes payable initially. However, starting in 2029, taxes payable are projected to increase significantly as the depreciation balances decline, which may reduce the tax benefits unless offset by strategic financial planning. It is essential to consider these dynamics to optimize tax efficiency and overall financial performance throughout the project's lifecycle.
@@ -347,7 +343,6 @@ The depreciation schedule outlines the allocation of depreciation across five as
 <p align="center">
 <img width=100% alt="returns-1" src="images/returns-1.png">
 <img width=100% alt="returns-2" src="images/returns-2.png">
-<p><br></p>
 </p>
 
 The financial model presents a project with an initial investment of $30.54 million, predominantly financed through debt ($23.67 million) with an equity contribution of $6.87 million. In its early stages, the project experiences negative equity balances due to substantial debt repayments and high interest expenses. However, as the project matures, both debt and interest payments decrease, leading to improved free cash flows and eventually a positive equity balance. The project's internal rate of return (IRR) progressively increases to a final value of 7.51%, while the cash-on-cash multiple reaches 2.00x, indicating that each dollar invested will yield two dollars in cash over the project's lifetime. With a payback period of 9.9 years, the project transitions from financial strain in its early years to increasing profitability as debt is repaid. Notably, the model demonstrates that the project achieves its break-even point between years 9 and 10, marked by the shift from negative to positive equity balance. This financial trajectory suggests that despite initial challenges, the project ultimately generates positive returns for equity holders, showcasing its long-term viability and potential for value creation.
@@ -355,7 +350,6 @@ The financial model presents a project with an initial investment of $30.54 mill
 ### Sensitivity Analysis
 <p align="center">
 <img width=60% alt="sensitivity-analysis" src="images/sensitivity-analysis.png">
-<p><br></p>
 </p>
 
 The sensitivity analysis demonstrates that both the Power Purchase Agreement (PPA) price and term significantly influence the project's financial performance. A higher PPA price correlates with an improved Internal Rate of Return (IRR), showing substantial enhancement as the price increases. Similarly, extending the PPA term leads to a higher IRR, as the project benefits from a prolonged revenue stream. The payback period analysis reveals that higher PPA prices reduce the time required to recoup the investment, enhancing the project's attractiveness. However, contrary to initial expectations, the post-PPA rate shows no discernible effect on the payback period in the provided data. To optimize financial viability, the analysis suggests that securing a higher PPA price and negotiating a longer PPA term are crucial strategies. While these factors demonstrate clear impacts on the project's financial metrics, the influence of the post-PPA rate remains inconclusive based on the available information, highlighting an area for potential further investigation to fully understand its long-term implications on the project's economics.
@@ -364,12 +358,10 @@ The sensitivity analysis demonstrates that both the Power Purchase Agreement (PP
 <p align="center">
 <img width=100% alt="charts-and-graphs-1" src="images/charts-and-graphs-1.png">
 <img width=100% alt="charts-and-graphs-2" src="images/charts-and-graphs-2.png">
-<p><br></p>
 </p>
 
 <p align="center">
 <img width=100% alt="charts-and-graphs-3" src="images/charts-and-graphs-3.png">
-<p><br></p>
 </p>
 
 This section provides an overview of the metrics discussed in other parts of the model. The inclusion of financial data, along with a visual representation of the trends over the years, facilitates an easier understanding of the changes. The graph offers a practical way to track annual variations in revenue, expenses, EBITDA, cash flow, and the PPA rate, making it easier to assess the model’s future performance.
@@ -378,17 +370,14 @@ This section provides an overview of the metrics discussed in other parts of the
 
 <p align="center">
 <img width=60% aalt="charts-and-graphs-4" src="images/charts-and-graphs-4.png">
-<p><br></p>
 </p>
 
 <p align="center">
 <img width=60% alt="charts-and-graphs-5" src="images/charts-and-graphs-5.png">
-<p><br></p>
 </p>
 
 <p align="center">
 <img width=50% alt="charts-and-graphs-6" src="images/charts-and-graphs-6.png">
-<p><br></p>
 </p>
 
 According to the sources and uses table and pie charts, the financing structure presents a well-balanced approach to funding the project, with a clear mix of debt and equity. The project is leveraging 77.5% debt (€23,669,373), which is a relatively high level of leverage, indicating a strong reliance on debt financing. This is common in large capital-intensive projects, as it allows the sponsor to maximize returns on equity while minimizing upfront capital outlay. The remaining 22.5% equity (€6,869,303) ensures that the investors have a stake in the project, which is important for both the project’s risk profile and potential upside.
